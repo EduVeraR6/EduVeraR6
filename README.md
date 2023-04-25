@@ -1,5 +1,5 @@
 # 💫 About Me:
-En busca de un empleo como Desarrollador Frontend 🔍<br>Estudiante de la carrera de Ingeniería de Software 👨‍💻👨‍🎓<br>Siempre aprendiendo algo nuevo sobre el Desarrollo Frontend 📚<br>Me gusta el trabajo en Equipo 🙋‍♂️
+En busca de un empleo como Desarrollador 🔍<br>Estudiante de la carrera de Ingeniería de Software 👨‍💻👨‍🎓<br>Siempre aprendiendo algo nuevo sobre el Desarrollo Frontend 📚<br>Me gusta el trabajo en Equipo 🙋‍♂️
 
 
 ## 🌐 Socials:
