@@ -22,3 +22,6 @@ En busca de un empleo como Desarrollador 🔍<br>Estudiante de la carrera de Ing
 [![](https://visitcount.itsvg.in/api?id=EduVeraR6&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=EduVeraR6&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
+
